@@ -145,7 +145,7 @@ p {
 h1 {
   margin: 0;
   color: var(--ink);
-  font-size: 2rem;
+  font-size: 1.75rem;
   line-height: 1.1;
   letter-spacing: 0;
 }
@@ -220,8 +220,8 @@ h1 {
   max-width: 880px;
   margin: 0;
   color: var(--accent-dark);
-  font-size: clamp(2rem, 4.6vw, 3.65rem);
-  line-height: 1.06;
+  font-size: 1.75rem;
+  line-height: 1.22;
   letter-spacing: 0;
 }
 
@@ -473,10 +473,6 @@ h3 {
 
   .focus-box {
     margin-top: 18px;
-  }
-
-  .hero-section h2 {
-    font-size: 2.05rem;
   }
 
   .stat-grid,
