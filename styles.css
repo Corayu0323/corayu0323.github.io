@@ -23,7 +23,7 @@ body {
   margin: 0;
   color: var(--ink);
   background: #f7f9fb;
-  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
   line-height: 1.65;
 }
@@ -130,7 +130,7 @@ a:hover {
 .name-cn {
   margin: 0 0 3px;
   color: var(--accent);
-  font-family: "Noto Serif SC", serif;
+  font-family: "Songti SC", "STSong", serif;
   font-size: 1.15rem;
   font-weight: 700;
 }
